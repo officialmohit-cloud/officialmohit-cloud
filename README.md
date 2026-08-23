@@ -8,7 +8,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/officialmohit-cloud?style=social)](https://github.com/officialmohit-cloud)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohit_Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-sharma-a24b38323/)
-[![Email](https://img.shields.io/badge/Email-officialmohit7837@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officialmohit7837@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mohitaideveloper789@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitaideveloper789@gmail.com)
 
 </div>
 
@@ -166,7 +166,7 @@ Clients → API Gateway → Microservices → Kafka / Celery → PostgreSQL / Re
 
 💼 **Open to:** Freelance · Contract · Agency overflow · White-label dev · Long-term remote
 
-📧 [officialmohit7837@gmail.com](mailto:officialmohit7837@gmail.com)  
+📧 [mohitaideveloper789@gmail.com](mailto:mohitaideveloper789@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/mohit-sharma-a24b38323/)  
 🌐 [github.com/officialmohit-cloud](https://github.com/officialmohit-cloud)
 
