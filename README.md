@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Mohit Tarnach 👋
+# Hi, I'm Mohit 👋
 
 ### Senior Python & AI Developer | AI Agents · SaaS · Microservices · Automation
 
